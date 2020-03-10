@@ -12,7 +12,6 @@
  *  fps=60fps, vX=300 -> x = 300 * 1/60 * 60 = 300 px/sec
  *  fps=20fps, vX=300 -> x = 300 * 1/20 * 20 = 300 px/sec
  *
- *  00-50-23
  */
 
 package game;
